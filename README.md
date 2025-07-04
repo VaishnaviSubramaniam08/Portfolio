@@ -25,7 +25,7 @@ Welcome to my portfolio repository! This is a fully responsive personal portfoli
 
 
 ## Github repository
--
+-  https://github.com/VaishnaviSubramaniam08/Portfolio
 
 ## 🚀 Getting Started
 
